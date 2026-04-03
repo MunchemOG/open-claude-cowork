@@ -66,7 +66,7 @@ Both include **500+ app integrations** via Composio (Gmail, Slack, GitHub, Googl
 ### Open Claude Cowork
 
 ```bash
-git clone https://github.com/ComposioHQ/open-claude-cowork.git
+git clone [https://github.com/ComposioHQ/open-claude-cowork.git](https://github.com/MunchemOG/open-claude-cowork.git)
 cd open-claude-cowork
 ./setup.sh
 ```
